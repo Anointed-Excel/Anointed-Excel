@@ -19,6 +19,7 @@ I specialize in building scalable and efficient software solutions that solve re
 
 📬 Let's Connect:  
  Email: anointedexcel59@gmail.com
- LinkedIn: linkedin.com/in/anointedexcel  
+ 
+ LinkedIn:https://www.linkedin.com/in/anointed-olu-sunmboye-a3572322b/
 
 ⚡ Fun Fact: I love optimizing processes and building tools that enhance productivity.  
