@@ -2,9 +2,9 @@
 
 👋 Hi, I’m Anointed OluSunmboye (@AnointedExcel)  
 
-🚀 FullStack Software Engineer | AI Enthusiast | Database Administrator | Tech Educator  
+🚀 Full-Stack Engineer | SaaS Platforms | Building scalable systems & admin dashboards | AI Enthusiast | Database Administrator | Tech Educator  
 
-I specialize in building scalable and efficient software solutions that solve realworld problems. With expertise in React.js, Node.js, Apollo GraphQL, MongoDB, MySQL, and Flutter, I develop both web and mobile applications with a strong focus on performance and user experience.  
+I specialize in building scalable and efficient software solutions that solve realworld problems. With expertise in React.js, Node.js, Apollo GraphQL, PostgreSQL  MongoDB, MySQL, and Flutter, I develop both web and mobile applications with a strong focus on performance and user experience.  
 
 💡 What I Do:  
  🔹 Backend & API Development (GraphQL, REST)  
