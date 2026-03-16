@@ -1,4 +1,4 @@
- Hey,**I'm Anointed (Excel) Olu-Sunmboye**👋
+ Hey, **I'm Anointed (Excel) Olu-Sunmboye**👋
 
 
 Senior Full-Stack Engineer · CTO @Birdhouse Group · Founder @Ternary Technologies
@@ -19,8 +19,9 @@ I build production systems that scale — real-time bidding engines, AI-powered 
 - 📱 Mobile — Flutter apps with Provider, GoRouter, biometric auth
 
 
- 🛠 Tech Stack
- 
+**🛠 Tech Stack**
+
+
 **Frontend**
  - React
  - TypeScript
@@ -42,10 +43,13 @@ I build production systems that scale — real-time bidding engines, AI-powered 
 
 **AI & Integrations**
 - OpenAI
+
+
+
+
   
 
- 📊 By The Numbers
-
+**📊 By The Numbers**
 
 🚀 CarhubAuction frontend delivery - 4 weeks vs. 2-month deadline
 🎓 TekyPro LMS completion rate - 85% across hundreds of **US** learners 
@@ -53,6 +57,7 @@ I build production systems that scale — real-time bidding engines, AI-powered 
 🏫 Active school partnerships secured - 3 schools onboarded 
 🏗️ Vee Vill Hub API surface - 39 endpoints across a full e-commerce domain 
 👥 Team I currently lead - 4 engineers as CTO 
+
 
 
 
