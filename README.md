@@ -1,4 +1,4 @@
-# Anointed Olu-Sunmboye
+# Anointed (Excel) Olu-Sunmboye
 
 **Senior Full-Stack Engineer** · Lagos, Nigeria
 
