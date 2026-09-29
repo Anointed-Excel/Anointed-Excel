@@ -60,11 +60,7 @@ Led a four-engineer team while keeping the IC seat. Delivered CarHubAuction's fr
 
 Currently founding [Ternary Technologies](https://github.com/Ternary-Technologies), an EdTech startup teaching children aged 6–18 to build with technology rather than only consume it.
 
----
-
-
-
-TypeScript · React · React Native · Node.js · Express · Python (Flask) · PostgreSQL · MongoDB · Redis · Socket.IO · Prisma · Docker · Flutter · OpenAI
+is · Socket.IO · Prisma · Docker · Flutter · OpenAI
 
 ---
 
