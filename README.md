@@ -62,8 +62,4 @@ Currently founding [Ternary Technologies](https://github.com/Ternary-Technologie
 
 is · Socket.IO · Prisma · Docker · Flutter · OpenAI
 
----
 
-Led a four-engineer team while keeping the IC seat. Delivered CarHubAuction's frontend in four weeks against a two-month deadline.
-
-**Open to senior engineering roles** — remote, Lagos, or relocation. [Email](mailto:anointedexcel59@gmail.com) · [LinkedIn](https://linkedin.com/in/anointed-olu-sunmboye)
